@@ -1,0 +1,230 @@
+    1  echo Hello World
+    2  pwd
+    3  cd /Desktop
+    4  cd/desktop
+    5  cd/Users/User/Desktop
+    6  pwd
+    7  cd/Users
+    8  cd Users
+    9  cd Desktop
+   10  cd BJJ
+   11  cd .
+   12  cd..
+   13  cd ..
+   14  cd ~
+   15  cd -
+   16  cd ~ 
+   17  pwd
+   18  ls
+   19  cd desktop
+   20  cd BJJ
+   21  ls
+   22  cd Lachlan Giles - Submeta - Saddle
+   23  cd lachlan
+   24  cd Desktop
+   25  cd .
+   26  ..cd 
+   27  .. cd
+   28  cd ..
+   29  ls
+   30  ls -a
+   31  pwd
+   32  ls -l
+   33  ls -r
+   34  ls -la
+   35  ls -lar
+   36  ls -alr
+   37  pwd
+   38  touch mysuperduperfile
+   39  cd mysuperduperfile
+   40  ls
+   41  cd mysuperduperfile
+   42  ls -l mysuperduperfile
+   43  touch mysuperduperfile
+   44  ls -l mysuperduperfile
+   45  cd mysuperduperfile
+   46  c mysuperduperfile
+   47  ls
+   48  touch -r file1.txt file2.txt
+   49  touch -d "2030-02-09 23:33:00" mysuperduperfile
+   50  file mysuperduperfile
+   51  cd BJJ
+   52  pwd
+   53  ls
+   54  file Lachlan Giles - Submeta - Saddle
+   55  cd Contents
+   56  ls
+   57  cd Lachlan Giles - Submeta - Saddle
+   58  cat myfile.txt
+   59  cd.. 
+   60  cd ..
+   61  touch myfile.txt
+   62  cd myfile.txt
+   63  cat myfile.txt
+   64  cat BJJ
+   65  cat > newfile.txt
+   66  cat > nefile.txt
+   67  cat -n newfile.txt
+   68  cat -n
+   69  man cat
+   70  cat -n newfile.txt
+   71  less nefile.txt
+   72  history
+   73  cat myfile.txt history
+   74  cat myfile.txt
+   75  clear
+   76  history
+   77  history -w
+   78  echo Hello World
+   79  pwd
+   80  cd /Desktop
+   81  cd/desktop
+   82  cd/Users/User/Desktop
+   83  pwd
+   84  cd/Users
+   85  cd Users
+   86  cd Desktop
+   87  cd BJJ
+   88  cd .
+   89  cd..
+   90  cd ..
+   91  cd ~
+   92  cd -
+   93  cd ~ 
+   94  pwd
+   95  ls
+   96  cd desktop
+   97  cd BJJ
+   98  ls
+   99  cd Lachlan Giles - Submeta - Saddle
+  100  cd lachlan
+  101  cd Desktop
+  102  cd .
+  103  ..cd 
+  104  .. cd
+  105  cd ..
+  106  ls
+  107  ls -a
+  108  pwd
+  109  ls -l
+  110  ls -r
+  111  ls -la
+  112  ls -lar
+  113  ls -alr
+  114  pwd
+  115  touch mysuperduperfile
+  116  cd mysuperduperfile
+  117  ls
+  118  cd mysuperduperfile
+  119  ls -l mysuperduperfile
+  120  touch mysuperduperfile
+  121  ls -l mysuperduperfile
+  122  cd mysuperduperfile
+  123  c mysuperduperfile
+  124  ls
+  125  touch -r file1.txt file2.txt
+  126  touch -d "2030-02-09 23:33:00" mysuperduperfile
+  127  file mysuperduperfile
+  128  cd BJJ
+  129  pwd
+  130  ls
+  131  file Lachlan Giles - Submeta - Saddle
+  132  cd Contents
+  133  ls
+  134  cd Lachlan Giles - Submeta - Saddle
+  135  cat myfile.txt
+  136  cd.. 
+  137  cd ..
+  138  touch myfile.txt
+  139  cd myfile.txt
+  140  cat myfile.txt
+  141  cat BJJ
+  142  cat > newfile.txt
+  143  cat > nefile.txt
+  144  cat -n newfile.txt
+  145  cat -n
+  146  man cat
+  147  cat -n newfile.txt
+  148  less nefile.txt
+  149  history
+  150  cat myfile.txt history
+  151  cat myfile.txt
+  152  clear
+  153  history
+  154  history -w
+  155  history
+  156  mv newfile.txt lionfile.txt
+  157  pwd
+  158  mv lionfile.txt /Users/User/desktop/BJJ
+  159  pwd
+  160  mkdir TUTO
+  161  cd tuto
+  162  rm myfile.txt
+  163  cd .
+  164  cd ..
+  165  rm myfile.txt
+  166  rm -i mysuperduperfile
+  167  rm -r TUTO
+  168  rm mysuperduperfile
+  169  man ls
+  170  ubuntu
+  171  sudo apt update
+  172  whatis cat
+  173  exit
+  174  htop
+  175  pwd
+  176  ls
+  177  cd
+  178  ls-l
+  179  ls -l
+  180  mkdir dis08
+  181  cd/dis08
+  182  mkdir dis08
+  183  cd dis08
+  184  touch notes.txt
+  185  ls
+  186  echo "hello world" > notes.txt
+  187  cat notes.txt
+  188  ls > dir_overview.txt
+  189  cat dir-overview.txt
+  190  cat dir_overview.txt
+  191  rm notes.txt
+  192  ls
+  193  cp dir_overview.txt dir_overview_backup.txt
+  194  ls
+  195  mv dir_overview_backup.txt dir_overview_copy.txt
+  196  ls
+  197  cd ..
+  198  rm -rf dis08
+  199  man touch
+  200  man touch
+  201  man ls
+  202  cd /c/Users/User/Downloads/bashcrawl-stable-2024.02.09/bashcrawl-stable-2024.02.09/entrance
+  203  cat scroll
+  204  ls
+  205  cd cellar
+  206  ls
+  207  cd treasure
+  208  cd treasure
+  209  ls
+  210  cd armoury
+  211  ls
+  212  cd chamber
+  213  ls
+  214  cd scroll
+  215  ls
+  216  scroll
+  217  cd scroll
+  218  cd armoury
+  219  cd .
+  220  cd ..
+  221  cd ~
+  222  history
+  223  exit
+  224  cd /c/Users/User/Downloads/bashcrawl-stable-2024.02.09/bashcrawl-stable-2024.02.09
+  225  cat scroll
+  226  exit
+  227  history -100 >> bashcrawl.log
+  228  history -100 >> bashcrawl.log
+  229  [200~history 100 >> bashcrawl.log
+  230  history >> bashcrawl.log
