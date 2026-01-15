@@ -1,4 +1,5 @@
 # Parsing contacts.csv
+
 ## 1) Alle E-Mail-Adressen
 
 ```bash
@@ -107,6 +108,7 @@ leo.morbi@aol.com
 
 ## 2) Telefonnummern
 
+
 '''bash
 grep -Eo '[0-9]{3}-[0-9]{3}-[0-9]{4}' csv/contacts.csv
 
@@ -156,6 +158,7 @@ grep -Eo '[0-9]{3}-[0-9]{3}-[0-9]{4}' csv/contacts.csv
 455-448-1775
 
 ## 3) Namen, die mit J beginnen
+
 '''bash
 grep -E '^J[^,]*,' csv/contacts.csv
 
@@ -168,6 +171,7 @@ Jaquelyn Le,"Ap #506-313 Egestas, Street",felis.purus.ac@protonmail.net,(227) 71
 Jenna Herrera,6458 Ac Rd.,est.ac@protonmail.edu,(243) 677-3406
 
 ## 4) Straßen, die mit 'St' enthalten
+
 '''bash
 grep -E 'St' csv/contacts.csv
 
@@ -205,6 +209,7 @@ Aileen Cochran,Ap #806-7090 Massa. St.,sed.nunc@aol.couk,1-301-323-0477
 Clare Hansen,Ap #987-1774 Non Street,dui.augue@outlook.org,1-788-814-5232
 
 ## 5) Nachname aller Personen
+
 '''bash
 grep -Eo '^[^,]+' csv/contacts.csv | grep -Eo '[^ ]+$'
 
